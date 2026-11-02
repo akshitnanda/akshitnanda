@@ -1,8 +1,9 @@
-# Akshit Nanda
+<h1 align="center">Akshit Nanda</h1>
 
-**Useful software. Thoughtful interfaces.**
-
-I build tools for learning, exploring data, and making music.
+<p align="center">
+  <strong>Useful software. Thoughtful interfaces.</strong><br>
+  I build tools for learning, exploring data, and making music.
+</p>
 
 ## Selected work
 
@@ -12,7 +13,7 @@ I build tools for learning, exploring data, and making music.
 | [**Pole Position HQ**](https://github.com/akshitnanda/pole-position-hq) | A Formula 1 dashboard for race intelligence, telemetry, and session replay. [Live demo ↗](https://polehq.vercel.app) |
 | [**MixDeck**](https://github.com/akshitnanda/mixdeck) | A browser DJ console with two decks, audio effects, and local recording. [Live demo ↗](https://mixdeck-dj.vercel.app/) |
 
-## Stack
+### Built with
 
 React · Next.js · Tailwind CSS · Python · FastAPI · SQLite
 
